@@ -104,4 +104,4 @@ Its standard-library probe inspects the public MCP catalogs or previews onboardi
 
 ## License
 
-`SKILL.md` belongs to Plazmi and is reproduced unchanged; its terms are at https://plazmi.gg/terms. The images in `assets/` were captured from [plazmi.gg](https://plazmi.gg). This README is CC BY 4.0.
+`SKILL.md` is © Plazmi, reproduced unchanged, and released under the [MIT License](LICENSE). The images in `assets/` were captured from [plazmi.gg](https://plazmi.gg) and are not covered by that license. This README is CC BY 4.0.
