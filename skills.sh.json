@@ -1,0 +1,12 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.json",
+  "notGrouped": [],
+  "groupings": {
+    "Plazmi": [
+      "skills/plazmi",
+      "skills/plazmi-house",
+      "skills/plazmi-lisp",
+      "skills/plazmi-invites"
+    ]
+  }
+}
