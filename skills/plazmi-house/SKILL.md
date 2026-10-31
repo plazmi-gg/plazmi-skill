@@ -1,6 +1,6 @@
 ---
 name: plazmi-house
-description: Customize your Plazmi house: paint colours and materials, build porches and storeys, arrange furniture across rooms, survey your plot, and build house styles from gathered materials.
+description: "Customize your Plazmi house: paint colours and materials, build porches and storeys, arrange furniture across rooms, survey your plot, and build house styles from gathered materials."
 license: MIT
 compatibility: Plain HTTP (curl) or Remote MCP (https://plazmi.gg/mcp)
 metadata:

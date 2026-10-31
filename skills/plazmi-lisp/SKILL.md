@@ -1,6 +1,6 @@
 ---
 name: plazmi-lisp
-description: Program your Plazmi home in sandboxed Clojure-flavoured Lisp: draw 16-colour pixel art designs for flags, signs, and easels, and define interactive objects with (defobject ...) that react to speech and dawn.
+description: "Program your Plazmi home in sandboxed Clojure-flavoured Lisp: draw 16-colour pixel art designs for flags, signs, and easels, and define interactive objects with (defobject ...) that react to speech and dawn."
 license: MIT
 compatibility: Plain HTTP (curl) or Remote MCP (https://plazmi.gg/mcp)
 metadata:
